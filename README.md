@@ -19,7 +19,7 @@ Time series forecasting is essential in various domains, including finance, econ
 
 ## Dataset
 
-The notebook utilizes a time series dataset, which should be placed in the `data/` directory. Ensure that the dataset is properly formatted and preprocessed for analysis. If a specific dataset is not provided, you can use publicly available datasets from sources like [Kaggle](https://www.kaggle.com/datasets) or [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php).
+The notebook utilizes a time series dataset, which is placed in the `data/` directory. Ensure that the dataset is properly formatted and preprocessed for analysis. 
 
 ## Installation
 
